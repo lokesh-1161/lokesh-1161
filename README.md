@@ -5,7 +5,6 @@
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-1161&count_private=true)
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-1161&show_icons=true)
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-1161&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lokesh-1161&repo=github-readme-stats)](https://github.com/lokesh-1161/github-readme-stats)
 
 
 
