@@ -6,35 +6,31 @@ namespace Training_Application.Controllers
 {
     public class ProductController : Controller
     {
-        private static List<Dictionary<string, string>> products = new List<Dictionary<string, string>>
-        {
-            new Dictionary<string, string> { { "Id", "101" }, { "Name", "Laptop" }, { "Price", "1200" } },
-            new Dictionary<string, string> { { "Id", "102" }, { "Name", "Mouse" }, { "Price", "25" } }
-        };
+        // Static list to simulate a database
+        private static List<Product> _products = new List<Product>();
 
-        public ActionResult Index()
+        public IActionResult Index()
         {
-            ViewBag.ProductList = products;
-            return View();
-        }
-
-        [HttpGet]
-        public ActionResult Create()
-        {
-            return View();
+            return View(_products);
         }
 
         [HttpPost]
-        public ActionResult Create(FormCollection form)
+        public IActionResult Add(Product product)
         {
-            var newProduct = new Dictionary<string, string>
+            if (ModelState.IsValid)
             {
-                { "Id", form["Id"] },
-                { "Name", form["Name"] },
-                { "Price", form["Price"] }
-            };
+                _products.Add(product);
+            }
+            return RedirectToAction("Index");
+        }
 
-            products.Add(newProduct);
+        public IActionResult Delete(int id)
+        {
+            var product = _products.FirstOrDefault(p => p.Id == id);
+            if (product != null)
+            {
+                _products.Remove(product);
+            }
             return RedirectToAction("Index");
         }
     }
