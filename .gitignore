@@ -1,0 +1,77 @@
+## Ignore build output
+bin/
+obj/
+out/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Rider and VSCode project folders
+.idea/
+.vscode/
+
+## Ignore Visual Studio folders
+.vs/
+
+## Ignore build results
+*.exe
+*.dll
+*.app
+*.pdb
+*.cache
+*.log
+
+## Ignore test results
+TestResults/
+*.trx
+
+## Ignore package management
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore .NET Core tooling
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+## Ignore publish folder
+publish/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Ignore database files
+*.mdf
+*.ldf
+
+## Ignore environment-specific files
+appsettings.Development.json
+secrets.json
+
+## Ignore files created by dotnet user-secrets
+*.usersecrets/
+
+## Ignore global.json SDK resolver cache
+global.json.sentinel
+
+# Optional: Ignore ReSharper and JetBrains Rider files
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Optional: Ignore logs
+logs/
+*.log
+
+# Optional: Ignore local tools manifest
+.tool/
+
+# Optional: Node.js artifacts if using frontend in MVC
+node_modules/
+npm-debug.log*
+dist/
