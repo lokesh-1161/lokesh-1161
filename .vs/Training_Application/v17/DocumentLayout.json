@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|c:\\users\\lokesh k\\source\\repos\\training_application\\training_application\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB09C63-C561-4DC7-A6C4-62AA7492D496}|Training_Application\\Training_Application.csproj|solutionrelative:training_application\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:37:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Training_Application\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Training_Application\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:53:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:09:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:53:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Training_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Program.cs",
+              "RelativeToolTip": "Training_Application\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:21:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T06:01:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Training_Application\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Models\\Product.cs",
+              "RelativeToolTip": "Training_Application\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:00:47.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:33:35.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:33:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Training_Application\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Training_Application\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:37:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Training_Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Training_Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:15:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Training_Application\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lokesh K\\source\\repos\\Training_Application\\Training_Application\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Training_Application\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:56:38.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
